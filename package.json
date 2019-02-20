@@ -1,0 +1,29 @@
+{
+  "name": "gulp-html2javascript",
+  "version": "1.0.0",
+  "description": "Gulp plugin for exports HTML to javascript instructions. Create javascript functions from HTML templates.",
+  "scripts": {
+    "test": "jest --detectOpenHandles",
+    "webpack": "webpack"
+  },
+  "main": "index.js",
+  "author": "Sem Postma",
+  "license": "MIT",
+  "devDependencies": {
+    "html2javascript": "^1.0.3",
+    "jest": "^23.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LesterGallagher/gulp-html2javascript.git"
+  },
+  "homepage": "https://github.com/LesterGallagher/gulp-html2javascript",
+  "keywords": [
+    "html",
+    "javascript",
+    "gulp",
+    "plugin",
+    "html2js",
+    "html2javascript"
+  ]
+}
