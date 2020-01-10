@@ -15,9 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LesterGallagher/gulp-html2javascript.git"
+    "url": "https://github.com/sempostma/gulp-html2javascript.git"
   },
-  "homepage": "https://github.com/LesterGallagher/gulp-html2javascript",
+  "homepage": "https://github.com/sempostma/gulp-html2javascript",
   "keywords": [
     "html",
     "javascript",
